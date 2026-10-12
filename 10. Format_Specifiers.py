@@ -1,0 +1,11 @@
+price1 = float(input("Enter price1: "))
+price2 = float(input("Enter price2: "))
+price3 = float(input("Enter price3: "))
+
+print(f"Price1 is ${price1: .2f}")
+print(f"Price2 is ${price2:>10f}")
+print(f"Price3 is ${price3:<10f}")
+print(f"Price1 is ${price1:^10f}")
+print(f"Price3 is ${price3:,}")
+print(f"Price2 is ${price2:+,}")
+print(f"Price1 is ${price1:+,.2f}")
