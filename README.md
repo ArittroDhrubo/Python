@@ -1,2 +1,2 @@
 # Python
-Basics and Problem Solving
+Basics, Problem Solving and Mini game Development
